@@ -1,0 +1,36 @@
+body {
+    background-color: lightgray;
+}
+
+.btn-primary {
+    background-color: coral;
+    border: none;
+}
+
+.bi-house {
+    color: #0d6efd;
+}
+
+.bi-box {
+    color: gray;
+}
+
+.card .bi-box {
+    margin-right: 10px;
+    color: #0d6efd;
+    
+}
+
+a.active {
+    background-color: white !important;
+}
+
+.bi-layers {
+    color: gray;
+}
+.bi-chat-dots {
+    color: gray;
+}
+.bi-list {
+    color: gray;
+}
